@@ -117,8 +117,7 @@
                 android:background="@color/colorAccent"
                 android:text="@string/action_sign_in"
                 android:textColor="@color/white"
-                android:textStyle="bold"
-                tools:text="Войти или зарегестрироваться" />
+                android:textStyle="bold" />
 
         </LinearLayout>
     </ScrollView>
